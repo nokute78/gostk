@@ -1,6 +1,7 @@
 # gostk
 ![Go](https://github.com/nokute78/gostk/workflows/Go/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/nokute78/gostk)](https://goreportcard.com/report/github.com/nokute78/gostk)
+[![GoDoc](https://godoc.org/github.com/nokute78/gostk?status.svg)](https://godoc.org/github.com/nokute78/gostk)
 
 
 A simple library to represent stack.
